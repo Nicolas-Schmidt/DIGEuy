@@ -3,7 +3,7 @@
 
 ## DIGE<b style='color:blue'>uy</b>
 
-> Directorio de Gremiales Empresariales de Uruguay desde 1871 a ala
+> Directorio de Gremiales Empresariales de Uruguay desde 1871 a la
 > actualidad.
 
 *Felipe Monestier, Nicolás Schmidt*
