@@ -58,7 +58,7 @@ datos histórica de la élite política uruguaya (incluyendo integrantes
 del poder ejecutivo y el poder legislativo a nivel nacional y
 departamental), así como agregar a esa base los/las integrantes de los
 directorios de los entes autónomos y empresas del estado desde sus
-orígenes hasta la actualidad.
+orígenes hasta la actualidad ([**`puy`**](https://nicolas-schmidt.github.io/puy/)).
 
 Aunque no estaba previsto inicialmente, el proyecto permitió construir
 tres bases de datos complementarias: una base de datos histórica de
