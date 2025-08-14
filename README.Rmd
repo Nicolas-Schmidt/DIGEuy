@@ -13,9 +13,9 @@ knitr::opts_chunk$set(
 )
 ```
 
-## DIGE<b style='color:blue'>uy</b>  
+## DIGE<b style='color:blue'>uy</b> <img src='man/figures/logo_do.png' align="right" height="250" />
 
-> Directorio de Gremiales Empresariales de Uruguay desde 1871 a ala actualidad. 
+> Directorio de Gremiales Empresariales de Uruguay desde 1871 a la actualidad. 
 
 *Felipe Monestier, Nicolás Schmidt* 
 
@@ -45,7 +45,7 @@ El proyecto estuvo centrado en el estudio de los vínculos entre las organizacio
 
 El objetivo principal era construir una base de datos histórica que permitiera describir y explicar los cambios y permanencias en la participación de integrantes de las organizaciones empresariales en los partidos políticos a través del tiempo. El proyecto cumplió este objetivo al construir, en primer lugar, una base de datos histórica que incluye integrantes de las directivas de las principales organizaciones empresariales (rurales, industriales, comerciales y financieras) desde fines del siglo XIX a la actualidad.
 
-Además, el proyecto permitió avanzar en la depuración de una base de datos histórica de la élite política uruguaya (incluyendo integrantes del poder ejecutivo y el poder legislativo a nivel nacional y departamental), así como agregar a esa base los/las integrantes de los directorios de los entes autónomos y empresas del estado desde sus orígenes hasta la actualidad.
+Además, el proyecto permitió avanzar en la depuración de una base de datos histórica de la élite política uruguaya (incluyendo integrantes del poder ejecutivo y el poder legislativo a nivel nacional y departamental), así como agregar a esa base los/las integrantes de los directorios de los entes autónomos y empresas del estado desde sus orígenes hasta la actualidad ([**`puy`**](https://nicolas-schmidt.github.io/puy/))..
 
 Aunque no estaba previsto inicialmente, el proyecto permitió construir tres bases de datos complementarias: una base de datos histórica de integrantes de las comisiones del poder legislativo, una base de datos de integrantes de los directorios del Partido Nacional y una base de datos de socios/os del Jockey Club del Uruguay desde 1910 a 1960.
 

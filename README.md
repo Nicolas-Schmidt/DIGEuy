@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-## DIGE<b style='color:blue'>uy</b>
+## DIGE<b style='color:blue'>uy</b> <img src='man/figures/logo_do.png' align="right" height="250" />
 
 > Directorio de Gremiales Empresariales de Uruguay desde 1871 a la
 > actualidad.
@@ -58,7 +58,8 @@ datos histórica de la élite política uruguaya (incluyendo integrantes
 del poder ejecutivo y el poder legislativo a nivel nacional y
 departamental), así como agregar a esa base los/las integrantes de los
 directorios de los entes autónomos y empresas del estado desde sus
-orígenes hasta la actualidad ([**`puy`**](https://nicolas-schmidt.github.io/puy/)).
+orígenes hasta la actualidad
+([**`puy`**](https://nicolas-schmidt.github.io/puy/))..
 
 Aunque no estaba previsto inicialmente, el proyecto permitió construir
 tres bases de datos complementarias: una base de datos histórica de

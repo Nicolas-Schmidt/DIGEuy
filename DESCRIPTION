@@ -1,16 +1,15 @@
 Package: DIGEuy
-Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1.0
+Title: Directorio historico de gremiales empresariales en Uruguay (1871–presente)
+Version: 0.0.0.9000
 Authors@R: c(
-    person(
-      "Jane", "Doe",
-      email = "jane@example.com",
-      role = c("aut", "cre")
+    person("Nicolás","Schmidt", email="nschmidt@cienciassociales.edu.uy", role="c("aut","cre")),
+    person("Felipe","Monestier", email="felipe.monestier@cienciassociales.edu.uy", role="aut"),
     )
-  )
-Description: More about what it does (maybe more than one line).
-    Continuation lines should be indented.
-License: What license is it under?
+Description: Conjunto de datos sobre la composicion de los directorios de las principales
+    gremiales empresariales de Uruguay desde 1871 hasta la actualidad, incluyendo
+    asociaciones rurales, industriales, comerciales y financieras.
+License: MIT + file LICENSE
 Encoding: UTF-8
-LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Depends: R (>= 3.5)
