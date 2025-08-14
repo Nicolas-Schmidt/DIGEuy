@@ -1,15 +1,17 @@
 Package: DIGEuy
-Title: Directorio historico de gremiales empresariales en Uruguay (1871–presente)
-Version: 0.0.0.9000
-Authors@R: c(
-    person("Nicolás","Schmidt", email="nschmidt@cienciassociales.edu.uy", role="c("aut","cre")),
-    person("Felipe","Monestier", email="felipe.monestier@cienciassociales.edu.uy", role="aut"),
-    )
-Description: Conjunto de datos sobre la composicion de los directorios de las principales
-    gremiales empresariales de Uruguay desde 1871 hasta la actualidad, incluyendo
-    asociaciones rurales, industriales, comerciales y financieras.
+Title: Directory of Uruguayan Business Associations, 1871–Present
+Version: 0.1.0
+Authors@R: c( person("Felipe", "Monestier", role = "aut"),
+  person("Nicolás", "Schmidt", email = "nschmidt@cienciassociales.edu.uy", role = c("aut", "cre")))
+Description: A curated dataset of Uruguay’s main business associations and chambers from 1871 to the present, with standardized board rosters for historical and quantitative analysis.
 License: MIT + file LICENSE
 Encoding: UTF-8
+LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
-Depends: R (>= 3.5)
+Depends: R (>= 3.5.0)
+BugReports: https://github.com/Nicolas-Schmidt/DIGEuy/issues
+Suggests:
+    knitr,
+    rmarkdown
+
