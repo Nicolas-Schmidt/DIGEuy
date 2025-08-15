@@ -15,9 +15,9 @@ knitr::opts_chunk$set(
 
 ## DIGE<b style='color:blue'>uy</b> <img src='man/figures/logo_do.png' align="right" height="250" />
 
-> Directorio de Gremiales Empresariales de Uruguay desde 1871 a la actualidad. 
+> Directorio de Gremiales Empresariales de Uruguay desde 1871 a la actualidad<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>. 
 
-*Felipe Monestier, Nicolás Schmidt* 
+*Felipe Monestier, Nicolás Schmidt, Rodrigo Seroubian, Nahuel Roel* 
 
 <!-- badges: start -->
 [![CRAN status](https://www.r-pkg.org/badges/version/Boreluy)](https://CRAN.R-project.org/package=DIGEuy)
@@ -29,6 +29,7 @@ developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.re
 `r badger::badge_devel("Nicolas-Schmidt/DIGEuy", "orange")`
 
 <!-- badges: end --> 
+
 
 ### Descripción del paquete
 
@@ -112,5 +113,9 @@ Aunque no estaba previsto inicialmente, el proyecto permitió construir tres bas
 
 
 
+#### Notas
+
+---
+<sup><a id="fn.1" href="#fnr.1">1</a></sup> El logo está diseñado a partir de una caricatura histórica de Domingo Ordoñana, destacada figura del asociativismo rural uruguayo. Ordoñana (1834–1896) fue un influyente hacendado, empresario y dirigente rural que participó activamente en la creación y consolidación de gremiales agropecuarias en Uruguay durante el siglo XIX, impulsando la defensa de los intereses de los productores y fomentando la modernización del sector. Su liderazgo y visión lo convirtieron en una de las personalidades más relevantes en la organización rural de su época.
 
 

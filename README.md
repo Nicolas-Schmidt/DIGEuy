@@ -4,9 +4,9 @@
 ## DIGE<b style='color:blue'>uy</b> <img src='man/figures/logo_do.png' align="right" height="250" />
 
 > Directorio de Gremiales Empresariales de Uruguay desde 1871 a la
-> actualidad.
+> actualidad<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>.
 
-*Felipe Monestier, Nicolás Schmidt*
+*Felipe Monestier, Nicolás Schmidt, Rodrigo Seroubian, Nahuel Roel*
 
 <!-- badges: start -->
 
@@ -17,7 +17,7 @@ status](https://github.com/Nicolas-Schmidt/Boreluy/workflows/R-CMD-check/badge.s
 [![Project Status: Active – The project has reached a stable, usable
 state and is being actively
 developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
-[![](https://img.shields.io/badge/devel%20version-0.0.0.9000-orange.svg)](https://github.com/Nicolas-Schmidt/DIGEuy)
+[![](https://img.shields.io/badge/devel%20version-0.1.0-orange.svg)](https://github.com/Nicolas-Schmidt/DIGEuy)
 
 <!-- badges: end -->
 
@@ -125,3 +125,17 @@ distintos organismos públicos y servicios descentralizados.
 | Directorios del Partido Nacional                 |       | 1887  | 1985  | 98   |
 | Directorios del Partido Nacional Independiente   |       | 1933  | 1959  | 26   |
 | Jockey Club                                      |       | 1910  | 1960  | 50   |
+
+#### Notas
+
+------------------------------------------------------------------------
+
+<sup><a id="fn.1" href="#fnr.1">1</a></sup> El logo está diseñado a
+partir de una caricatura histórica de Domingo Ordoñana, destacada figura
+del asociativismo rural uruguayo. Ordoñana (1834–1896) fue un influyente
+hacendado, empresario y dirigente rural que participó activamente en la
+creación y consolidación de gremiales agropecuarias en Uruguay durante
+el siglo XIX, impulsando la defensa de los intereses de los productores
+y fomentando la modernización del sector. Su liderazgo y visión lo
+convirtieron en una de las personalidades más relevantes en la
+organización rural de su época.
