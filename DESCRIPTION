@@ -1,8 +1,10 @@
 Package: DIGEuy
 Title: Directory of Uruguayan Business Associations, 1871–Present
 Version: 0.1.0
-Authors@R: c( person("Felipe", "Monestier", role = "aut"),
-  person("Nicolás", "Schmidt", email = "nschmidt@cienciassociales.edu.uy", role = c("aut", "cre")))
+Authors@R: c(person("Felipe", "Monestier", role = "aut"),
+    person("Nicolás", "Schmidt", email = "nschmidt@cienciassociales.edu.uy", role = c("aut", "cre")),
+    person("Rodrigo", "Seroubian", role = "aut"),
+    person("Nahuel", "Roel", role = "aut"))
 Description: A curated dataset of Uruguay’s main business associations and chambers from 1871 to the present, with standardized board rosters for historical and quantitative analysis.
 License: MIT + file LICENSE
 Encoding: UTF-8
@@ -14,4 +16,3 @@ BugReports: https://github.com/Nicolas-Schmidt/DIGEuy/issues
 Suggests:
     knitr,
     rmarkdown
-
